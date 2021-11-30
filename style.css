@@ -61,7 +61,7 @@ a.anchor {
 
 .exhibit {
   height: 100vh;
-  background-color: #1c320a;
+  background-color: black;
   background-image: url("Images/museumBackground.jpg");
   background-position: center;
 }
